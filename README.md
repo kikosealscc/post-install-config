@@ -19,38 +19,62 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11 Pro </b> (23H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+ 
+![image](https://github.com/user-attachments/assets/abc9f2da-e4be-4441-b03f-768d7cb4e279)
+
+
+
+
+Email Setup: Configure email addresses for incoming tickets. Go to the Admin Panel > Emails to set up SMTP/IMAP for outgoing/incoming emails
+
+Departments and Teams: Create departments and assign teams to handle specific ticket categories. Navigate to Admin Panel > Agents > Departments
+
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/6bd1f0c3-80d4-4b93-b614-2d8fc9c35e9d)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+User Roles and Permissions: Set up user roles and permissions in Admin Panel > Agents > Roles. Assign users to roles to define access levels
+
+Ticket Workflows: Configure ticket priorities, SLA plans, and custom workflows in Admin Panel > Manage > Help Topics
+
+
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/0ee9897a-4a69-4445-b3f6-e50e6712576a)
+
+
+
+</p>
+<p>
+
+Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) > Registration Required: Require registration and login to create tickets
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/f9ebf2ce-5ab5-46cb-bc4d-5b2e9b633d74)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Configure Help Topics: Admin Panel > Manage > Help Topics > Business Critical Outage > Personal Computer Issues > Equipment Request > Password Reset
+
+
 </p>
 <br />
